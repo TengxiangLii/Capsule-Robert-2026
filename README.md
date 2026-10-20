@@ -19,6 +19,7 @@ See [PLAN.md](PLAN.md) for what has been done, the results, and the next phases.
 | `capsules/C1/C1.zip` | **Capsule C1**: Phase 0 (6a structures, BigDFT setup, 30 dry-run-validated inputs) and Phase 1 (thioxanthone PBE/PBE0 calibration). 63 records, 131 files, 21 stdlib tests |
 | `capsules/C1/C1.zip.sha256` | SHA-256 of the archive |
 | `capsules/C1/SUMMARY.md` | the capsule's generated summary, for reading without importing |
+| `capsules/C1/BIGDFT_RUNS.md` | index of every BigDFT calculation in C1 (settings, resources, energies, where each file sits in the zip) |
 | `curation/C1/make_memory.py` | the script that curated C1's memory: a reference for writing the memory of the next version |
 | `PLAN.md` | status, results, failures, roadmap for C2–C5, transfer and growth test protocols |
 
